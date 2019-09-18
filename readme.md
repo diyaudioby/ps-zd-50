@@ -12,7 +12,7 @@ Unregulated power supply for amplifier LM3886 ZD-50. But you can use this power 
 - [Order PCB from PCBWay](https://www.pcbway.com/project/shareproject/power_supply_zd_50.html)
 
 ### Related projects
-- [Amplifier LM3886 ZD-50](https://github.com/diyaudioby/lm3886-zd-50)
+- [Amplifier LM3886 ZD-50](https://github.com/diyaudioby/amp-lm3886-zd-50)
 
 ### Folder structure
 Most folder names are self explanatory.
