@@ -13,6 +13,7 @@ Unregulated power supply for amplifier LM3886 ZD-50. But you can use this power 
 
 ### Related projects
 - [Amplifier LM3886 ZD-50](https://github.com/diyaudioby/amp-lm3886-zd-50)
+- [Softstart for LM3886 ZD-50](https://github.com/diyaudioby/ss-zd-50)
 
 ### Folder structure
 Most folder names are self explanatory.
